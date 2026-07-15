@@ -1,1 +1,1 @@
-
+Educational project in TypeScript
